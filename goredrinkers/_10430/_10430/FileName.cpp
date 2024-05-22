@@ -6,7 +6,7 @@ int main() {
 
 	scanf("%d %d %d", &input1, &input2, &input3);
 	printf("%d\n", (input1 + input2) % input3);
-	printf("%d\n", (input1 % input3) + (input2 % input3) % input3);
+	printf("%d\n", ((input1 % input3) + (input2 % input3)) % input3);
 	printf("%d\n", (input1 * input2) % input3);
 	printf("%d\n", ((input1 % input3) * (input2 % input3)) % input3);
 	return 0;
