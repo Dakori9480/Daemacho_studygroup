@@ -14,8 +14,8 @@ public class Main {
         totalMin = userInputH*60 + userInputM + userInputT;
         outHour = totalMin / 60;
         outMin = totalMin % 60;
-        if (outHour == 24){
-            outHour = 0;
+        if (outHour >= 24){
+            outHour = outHour % 24;
         }
         System.out.printf("%d %d", outHour, outMin);
     }
