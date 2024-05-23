@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rocom\\OneDrive\\\uBB38\uC11C\\GitHub\\Daemacho_studygroup\\goredrinkers\\_2588\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98DB2CCF-789B-40BB-A41E-DA4B5109EA51}|_2588\\_2588.vcxproj|C:\\Users\\rocom\\OneDrive\\\uBB38\uC11C\\GitHub\\Daemacho_studygroup\\goredrinkers\\_2588\\_2588\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98DB2CCF-789B-40BB-A41E-DA4B5109EA51}|_2588\\_2588.vcxproj|solutionrelative:_2588\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "C:\\Users\\rocom\\OneDrive\\\uBB38\uC11C\\GitHub\\Daemacho_studygroup\\goredrinkers\\_2588\\_2588\\FileName.c",
+              "RelativeDocumentMoniker": "_2588\\FileName.c",
+              "ToolTip": "C:\\Users\\rocom\\OneDrive\\\uBB38\uC11C\\GitHub\\Daemacho_studygroup\\goredrinkers\\_2588\\_2588\\FileName.c",
+              "RelativeToolTip": "_2588\\FileName.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-16T15:53:35.262Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

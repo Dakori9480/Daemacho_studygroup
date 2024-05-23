@@ -1,15 +1,10 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+
 int main() {
-	int a, b;
-	float c;
+    float a, b;
+    scanf("%f %f", &a, &b);
+    printf("%.15g", a / b);
 
-	scanf("%d %d", &a, &b);
-
-	c = a % b;
-
-	printf("%lf", c);
-
-	return 0;
-	
+    return 0;
 }
