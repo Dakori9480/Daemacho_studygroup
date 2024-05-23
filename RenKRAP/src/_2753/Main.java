@@ -1,4 +1,4 @@
-윤년
+package _2753;
 
 import java.util.Scanner;
 

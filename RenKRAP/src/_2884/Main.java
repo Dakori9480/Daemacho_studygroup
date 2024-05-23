@@ -1,4 +1,4 @@
-알람 맞추기
+package _2884;
 
 import java.util.Scanner;
 

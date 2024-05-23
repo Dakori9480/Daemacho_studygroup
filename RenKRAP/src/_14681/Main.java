@@ -1,4 +1,4 @@
-사분면 구하기
+package _14681;
 
 import java.util.Scanner;
 
